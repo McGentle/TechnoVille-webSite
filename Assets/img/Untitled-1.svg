@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="8.5in" height="11in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 8500 11000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil2 {fill:none}
+    .fil1 {fill:url(#id3)}
+    .fil0 {fill:url(#id4)}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <path d="M114 11334l8258 0 0 -11697 -8258 0 0 11697z"/>
+   </clipPath>
+     <mask id="id1">
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="8389.29" y1="5626.41" x2="95.7205" y2="5343.74">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+      <rect style="fill:url(#id2)" x="116" y="-362" width="8254" height="11694"/>
+     </mask>
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" x1="8518.43" y1="5899.07" x2="-33.4213" y2="5071.07">
+   <stop offset="0" style="stop-opacity:1; stop-color:#01A8FE"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#3CEAC3"/>
+  </linearGradient>
+  <linearGradient id="id4" gradientUnits="userSpaceOnUse" x1="8393.26" y1="5626.96" x2="92.752" y2="5344.05">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0.74902; stop-color:#4CAE7D"/>
+  </linearGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0" points="114,11334 8372,11334 8372,-363 114,-363 "/>
+  <g style="clip-path:url(#id0)">
+   <g id="_127132810336">
+    <path id="1" class="fil1" style="mask:url(#id1)" d="M117 -360l8251 0 0 7349 0 1422c0,998 -4750,3177 -8251,2894l0 -11665z"/>
+   </g>
+  </g>
+  <polygon class="fil2" points="114,11334 8372,11334 8372,-363 114,-363 "/>
+ </g>
+</svg>

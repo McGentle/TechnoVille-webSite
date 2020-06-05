@@ -1,0 +1,47 @@
+main{
+    background:var(--grident-color);
+}
+
+header.header{
+    padding-top:7em;
+}
+
+.header p{
+    padding:0px var(--padding);
+    padding-top:2em;
+    font-family:var(--main-font);
+    color:white;
+    font-size:20px;
+    text-align:justify;
+}
+.footer{
+    background:url(../img/about-mobile-background.svg);
+    height:40em;
+    width:100%;
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-top:4em;
+    background-position: center top;
+}
+
+@media (min-width:600px){
+    .header {
+        display:flex;
+        flex-flow:column;
+        justify-content: flex-end;
+        align-content: flex-end;
+        align-items: flex-end;
+    }
+    .header p{
+        width:45%;
+        font-size:19px;
+    }
+    .footer{
+        background:url(../img/about-desktop-footer-background.svg);
+        background-size:cover;
+        background-repeat: no-repeat;
+        position:center top;
+        margin-top:-70vh;
+        height:60em;
+    }
+}

@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    list-style:none;
+    scroll-behavior: smooth;
+}
+
+a , button , input[type=button] , i.fa{
+	cursor:pointer;
+}
+
+@font-face{
+	font-family:  "main-font";
+	src: url(../fonts/GeosansLight.ttf);
+}
+
+body{
+	overflow:hidden;
+	user-select:none;
+}
+body *{
+	font-weight:normal;
+}
+
+/*--------------------------------
+variables 
+------------------------------*/
+:root {
+    --main-font: main-font;
+    --grident-color: -webkit-linear-gradient(left, #4CAE7D, #3670C2);
+    --primary-color:#4CAE7D; 
+    --paragraph-color:black;
+    --padding:7vw; /*Left and Right*/
+}
+
+@media (min-width:600px){
+	:root{
+		--padding:10vw;
+	}
+}
+
